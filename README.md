@@ -1,17 +1,133 @@
+
 [Asociació Alternativa Assessoramen Financer.html](https://github.com/user-attachments/files/23145558/Asociacio.Alternativa.Assessoramen.Financer.html)
 <!DOCTYPE html>
-<!-- saved from url=(0050)https://temp-aoouzcjsmvfosspszhue.webadorsite.com/ -->
-<html lang="es"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="origin-trial" content="A7vZI3v+Gz7JfuRolKNM4Aff6zaGuT7X0mf3wtoZTnKv6497cVMnhy03KDqX7kBz/q/iidW7srW31oQbBt4VhgoAAACUeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGUuY29tOjQ0MyIsImZlYXR1cmUiOiJEaXNhYmxlVGhpcmRQYXJ0eVN0b3JhZ2VQYXJ0aXRpb25pbmczIiwiZXhwaXJ5IjoxNzU3OTgwODAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==">
-        
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <link rel="canonical" href="https://temp-aoouzcjsmvfosspszhue.webadorsite.com/">
-        <meta property="og:title" content="Asociació Alternativa Assessoramen Financer">
-        <meta property="og:url" content="https://temp-aoouzcjsmvfosspszhue.webadorsite.com/">
-        <!--<base href="https://temp-aoouzcjsmvfosspszhue.webadorsite.com/">--><base href=".">
-        <meta name="description" property="og:description" content="">
-                <script type="text/javascript" async="" charset="utf-8" src="./Asociació Alternativa Assessoramen Financer_files/recaptcha__es.js.descarga" crossorigin="anonymous" integrity="sha384-w5j1Ig2JJubxtkRRdN884MZW/bH2/vbrih76+E/PflF0OIkIY83jEQu7+RFeOQBG" nonce=""></script><script nonce="">
-            
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Asociació Alternativa Assessoramen Financer">
+  <title>Asociació Alternativa Assessoramen Financer</title>
+
+  <!-- Google Tag Manager -->
+  <script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-K733NCCC');
+  </script>
+  <!-- End Google Tag Manager -->
+
+  <!-- CSS base -->
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #f7f7f7;
+      color: #333;
+    }
+    header, footer {
+      background-color: #004080;
+      color: #fff;
+      padding: 1rem 2rem;
+      text-align: center;
+    }
+    main {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+      background: #fff;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      border-radius: 8px;
+    }
+    h1 {
+      margin-top: 0;
+    }
+    footer p {
+      margin: 0;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K733NCCC"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript>
+  <!-- End Google Tag Manager -->
+
+  <header>
+    <h1>Asociació Alternativa Assessoramen Financer</h1>
+  </header>
+
+  <main>
+    <p>Bienvenido a nuestra página web. Aquí encontrarás información sobre nuestros servicios y asesoramiento financiero.</p>
+    <!-- Puedes añadir más secciones, imágenes o enlaces -->
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Asociació Alternativa Assessoramen Financer</p>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Asociació Alternativa Assessoramen Financer">
+    <link rel="canonical" href="https://temp-aoouzcjsmvfosspszhue.webadorsite.com/">
+
+    <meta property="og:title" content="Asociació Alternativa Assessoramen Financer">
+    <meta property="og:url" content="https://temp-aoouzcjsmvfosspszhue.webadorsite.com/">
+    <meta property="og:description" content="Asociació Alternativa Assessoramen Financer">
+
+    <!-- Google Tag Manager -->
+    <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-K733NCCC');
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <title>Asociació Alternativa Assessoramen Financer</title>
+
+    <!-- Aquí puedes agregar tu CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+      <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K733NCCC"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <!-- Contenido de la página -->
+    <header>
+        <h1>Asociació Alternativa Assessoramen Financer</h1>
+    </header>
+
+    <main>
+        <p>Bienvenido a nuestra página web.</p>
+        <!-- Resto de tu contenido -->
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Asociació Alternativa Assessoramen Financer</p>
+    </footer>
+
+    <!-- Scripts adicionales -->
+    <script src="Asociació Alternativa Assessoramen Financer_files/recaptcha__es.js"></script>
+</body>
+</html>
+
             window.JOUWWEB = window.JOUWWEB || {};
             window.JOUWWEB.application = window.JOUWWEB.application || {};
             window.JOUWWEB.application = {"backends":[{"domain":"jouwweb.nl","freeDomain":"jouwweb.site"},{"domain":"webador.com","freeDomain":"webadorsite.com"},{"domain":"webador.de","freeDomain":"webadorsite.com"},{"domain":"webador.fr","freeDomain":"webadorsite.com"},{"domain":"webador.es","freeDomain":"webadorsite.com"},{"domain":"webador.it","freeDomain":"webadorsite.com"},{"domain":"jouwweb.be","freeDomain":"jouwweb.site"},{"domain":"webador.ie","freeDomain":"webadorsite.com"},{"domain":"webador.co.uk","freeDomain":"webadorsite.com"},{"domain":"webador.at","freeDomain":"webadorsite.com"},{"domain":"webador.be","freeDomain":"webadorsite.com"},{"domain":"webador.ch","freeDomain":"webadorsite.com"},{"domain":"webador.ch","freeDomain":"webadorsite.com"},{"domain":"webador.mx","freeDomain":"webadorsite.com"},{"domain":"webador.com","freeDomain":"webadorsite.com"},{"domain":"webador.dk","freeDomain":"webadorsite.com"},{"domain":"webador.se","freeDomain":"webadorsite.com"},{"domain":"webador.no","freeDomain":"webadorsite.com"},{"domain":"webador.fi","freeDomain":"webadorsite.com"},{"domain":"webador.ca","freeDomain":"webadorsite.com"},{"domain":"webador.ca","freeDomain":"webadorsite.com"},{"domain":"webador.pl","freeDomain":"webadorsite.com"},{"domain":"webador.com.au","freeDomain":"webadorsite.com"},{"domain":"webador.nz","freeDomain":"webadorsite.com"}],"editorLocale":"es-ES","editorTimezone":"Europe\/Madrid","editorLanguage":"es","analytics4TrackingId":"G-E6PZPGE4QM","analyticsDimensions":[],"backendDomain":"www.webador.es","backendShortDomain":"webador.es","backendKey":"webador-es","freeWebsiteDomain":"webadorsite.com","noSsl":false,"build":{"reference":"1f7f049"},"linkHostnames":["www.jouwweb.nl","www.webador.com","www.webador.de","www.webador.fr","www.webador.es","www.webador.it","www.jouwweb.be","www.webador.ie","www.webador.co.uk","www.webador.at","www.webador.be","www.webador.ch","fr.webador.ch","www.webador.mx","es.webador.com","www.webador.dk","www.webador.se","www.webador.no","www.webador.fi","www.webador.ca","fr.webador.ca","www.webador.pl","www.webador.com.au","www.webador.nz"],"assetsUrl":"https:\/\/assets.jwwb.nl","loginUrl":"https:\/\/www.webador.es\/iniciar-sesion","publishUrl":"https:\/\/www.webador.es\/v2\/website\/7181314\/publish-proxy","adminUserOrIp":false,"pricing":{"plans":{"lite":{"amount":"700","currency":"EUR"},"pro":{"amount":"1200","currency":"EUR"},"business":{"amount":"2400","currency":"EUR"}},"yearlyDiscount":{"price":{"amount":"6600","currency":"EUR"},"ratio":0.52,"percent":"52\u00a0%","discountPrice":{"amount":"6600","currency":"EUR"},"termPricePerMonth":{"amount":"1200","currency":"EUR"},"termPricePerYear":{"amount":"12000","currency":"EUR"}}},"hcUrl":{"add-product-variants":"https:\/\/help.webador.com\/hc\/es\/articles\/29426751649809","basic-vs-advanced-shipping":"https:\/\/help.webador.com\/hc\/es\/articles\/29426731685777","html-in-head":"https:\/\/help.webador.com\/hc\/es\/articles\/29426689990033","link-domain-name":"https:\/\/help.webador.com\/hc\/es\/articles\/29426688803345","optimize-for-mobile":"https:\/\/help.webador.com\/hc\/es\/articles\/29426707033617","seo":"https:\/\/help.webador.com\/hc\/es\/categories\/29387178511377","transfer-domain-name":"https:\/\/help.webador.com\/hc\/es\/articles\/29426715688209","website-not-secure":"https:\/\/help.webador.com\/hc\/es\/articles\/29426706659729"}};
